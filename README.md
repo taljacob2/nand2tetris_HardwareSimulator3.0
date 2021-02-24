@@ -10,7 +10,7 @@ _______
 
 ##### Added Resolution Menu:
 > The user is now able to modify the window's resolution with the following resolutions:
--  Classic Resolution [1100 X 800] imporoved from [1024 X 741]
+-  Classic Resolution [1100 X 800] improved from [1024 X 741]
 -  4:3 Resolution [1280 X 1024]
 -  16:9 Full-HD Resolution [1920 X 1080]
 - > Note:
