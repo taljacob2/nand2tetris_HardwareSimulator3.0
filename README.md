@@ -3,7 +3,7 @@
 
 
 - This version is a remaster for HardwareSimulator version 2.5 [2005].
-- Version 3.0 [2021] is providen for better experience, and holds new features.
+- Version 3.0 [2021] is provided for better experience, and holds new features.
 
 _______
 ## New Features:
@@ -14,16 +14,16 @@ _______
 -  4:3 Resolution [1280 X 1024]
 -  16:9 Full-HD Resolution [1920 X 1080]
 - > Note:
-    > Tables have been widen out, and now it is easier to view in 'Binary Format'.
+    > Tables have been widened out, and now it is easier to view in 'Binary Format'.
 
 
 ##### Added Theme Menu:
 > The user is now able to change the color theme of the program:
-- New "Classic (3.0)" theme providen.
-- Old "Classic" theme providen.
-- New "Dark" theme providen.
+- New "Classic (3.0)" theme provided.
+- Old "Classic" theme provided.
+- New "Dark" theme provided.
 
-##### The FileChooser had been replaced with new 'JavaFX' FileChooser instead of old 'swing' JFileChooser.
+##### The FileChooser has been replaced with new 'JavaFX' FileChooser instead of old 'swing' JFileChooser.
 > The user is now able to import Chip files / Script files easier than in the old 2.5 version.
 
 
