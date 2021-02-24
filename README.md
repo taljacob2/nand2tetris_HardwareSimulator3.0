@@ -23,7 +23,7 @@ _______
 - Old "Classic" theme providen.
 - New "Dark" theme providen.
 
-##### The FileChooser has been replaced with new 'JavaFX' FileChooser instead of old 'swing' JFileChooser.
+##### The FileChooser had been replaced with new 'JavaFX' FileChooser instead of old 'swing' JFileChooser.
 > The user is now able to import Chip files / Script files easier than in the old 2.5 version.
 
 
