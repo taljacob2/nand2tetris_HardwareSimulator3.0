@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BuiltInVMCodeSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BuiltInChipsSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CompilersPackageSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/HackGUIPackageSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/HackPackageSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/MainClassesSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SimulatorsGUIPackageSource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SimulatorsPackageSource" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>

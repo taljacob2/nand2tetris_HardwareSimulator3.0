@@ -1,0 +1,43 @@
+<html><head>
+  <SCRIPT src="http://java.com/js/dtjava.js"></SCRIPT>
+<script>
+    function launchApplication(jnlpfile) {
+        dtjava.launch(            {
+                url : 'nand2tetris2.jnlp'
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+        return false;
+    }
+</script>
+
+<script>
+    function javafxEmbednand2tetris2_id() {
+        dtjava.embed(
+            {
+                id : 'nand2tetris2_id',
+                url : 'nand2tetris2.jnlp',
+                placeholder : 'javafx-app-placeholder',
+                width : '600',
+                height : '400'
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+    }
+    <!-- Embed FX application into web page once page is loaded -->
+    dtjava.addOnloadCallback(javafxEmbednand2tetris2_id);
+</script>
+
+</head><body>
+<h2>Test page for <b>nand2tetris2JavaFX</b></h2>
+  <b>Webstart:</b> <a href='nand2tetris2.jnlp' onclick="return launchApplication('nand2tetris2.jnlp');">click to launch this app as webstart</a><br><hr><br>
+
+  <!-- Applet will be inserted here -->
+  <div id='javafx-app-placeholder'></div>
+</body></html>

@@ -1,0 +1,53 @@
+
+
+(would be nice to extend the window a bit to the right so it would fit the statusBar's end)
+
+make a FakeMain instead of the 'remake' method and call it.
+
+when changing resolution, also change the About.html files --- needed 3 different implementation of these html files - one for each resolution scale.
+
+also, fix right tables location i think.
+
+use color picker for background --- or for all "light colors" at once with their diversities
+
+BOLD THE FONT IN THE TABLES
+
+set color of all black-on-dark texts to green -- mainly labels
+
+
+
+maybe add a NIGHT-OWL-like theme
+
+
+VX try to change label of tables to be centered
+
+try to add some firstTitle_X to the statusBar
+
+[V - fix table internal parts]
+
+fix label of 'XOR', 'OR', 'AND' and such in the Part Pins table
+
+try to change Filechooser to JavaFX
+________
+[V - fix HDL lower height]
+
+[V - check internal Parts Table width and height]
+
+[V - fix static Fonts in Utilitiees class when changin resolution. ]
+
+[V - check if needed to compile with JDK 8 or it's okay to stay with JDK 15.]
+
+[V - check if its possible to delete ALL of the bin/lib .jars]
+-AFTER CHECK: INDEED POSSIBLE!
+
+[V - need to fix binary representation when using the binary interface]
+
+[V - edit the program to Start position in the middle of the screen]
+_______________
+ALSO:
+FIX PROGRAM:
+
+horizontal scroll doesn't work well! It resets to the left each time!
+(maybe fixable with extending the width of the text Panel)
+
+increase Script space between rows. to prevent the 'p' letter from being cut.

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HardwareSimulator:jar">
+    <output-path>$PROJECT_DIR$/out/InstallDir</output-path>
+    <root id="archive" name="HardwareSimulator.jar">
+      <element id="module-output" name="nand2tetris2" />
+    </root>
+  </artifact>
+</component>
